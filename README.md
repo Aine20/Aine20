@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Josseth Sánchez Godínez</h1>
 <h3 align="center">Studying to become a Unicorn 🦄 (designer 🎨 + developer 💻)</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aine20&show_icons=true&theme=radical" alt="Josseth's GitHub Stats" />
-</p>
-
 ---
 
 - 📫 How to reach me: 
