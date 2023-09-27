@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Josseth Sánchez Godínez</h1>
-<h3 align="center">Studying to become a Unicorn 🦄 (designer 🎨 + developer 💻)</h3>
+<h1 align="center">Hi there 👋, I'm Josseth Sánchez</h1>
+<h3 align="center">I'm a Unicorn 🦄 (designer 🎨 + developer 💻)</h3>
 
 ---
 
