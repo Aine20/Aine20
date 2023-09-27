@@ -8,7 +8,6 @@
 ---
 
 - 📫 How to reach me: 
-  - 📞 **8314-6985** 
   - 📧 **[josssanchez25@gmail.com](mailto:josssanchez25@gmail.com)**
   - 🔗 **[LinkedIn](https://linkedin.com/in/joss-sg/)**
 
